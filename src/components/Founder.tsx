@@ -38,7 +38,7 @@ const founders: Founder[] = [
     ],
     linkdenlink: "https://linkedin.com/in/rahul-walia-a48a51176",
     whatapplink:
-      "https://wa.me/+917018953717?text=Hello%20I%20am%20interested%20in%20your%20logistics%20services.",
+      "https://wa.me/+?text=Hello%20I%20am%20interested%20in%20your%20logistics%20services.",
     // photoCredit: "Credit: John Doe", // Example of missing field
   },
   {
@@ -54,7 +54,7 @@ const founders: Founder[] = [
     ],
     linkdenlink: "",
     whatapplink:
-      "https://wa.me/+917018953717?text=Hello%20I%20am%20interested%20in%20your%20logistics%20services.",
+      "https://wa.me/+?text=Hello%20I%20am%20interested%20in%20your%20logistics%20services.",
     // photoCredit: "Credit: Jane Smith", // Example of missing field
   },
 ];
